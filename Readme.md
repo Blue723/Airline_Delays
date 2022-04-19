@@ -1,10 +1,8 @@
 # Readme
 
-![image](img/dep_pic.png)
+This project is to build a model that predicts an Airline has a flight departure delay. The model will represent the Airlines American Airlines (AA), United Airlines (UA), and American Eagle Airlines (MQ).
 
-This project aims to build a model that predicts an Airline's flight departure delay. The model will represent the Airlines American Airlines (AA), United Airlines (UA), and American Eagle Airlines (MQ).
-
-Planning ahead can help you recognize potential disruptions to help save time and money. A company's ability to recognize when their employee might have a fligth problem ahead of time, will help the company make adjustments to prevent further interruptions. I would like the model to help a customer determine if their flight will be delayed, so they might plan to reschedule. 
+The model helps a customer determine if their flight will be delayed so they might plan to reschedule. 
 
 The models used are Decision Tree, Random Forest, and XGBoost. Each model has a baseline, then applied random search, then SMOTE. So we can observe each model's  predictions.
 
